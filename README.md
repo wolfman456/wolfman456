@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @wolfman456
 - 👀 I’m interested in cyber security, Text based adventure games, python, SQL, Java, postgres, mongoDB, Thymeleaf, Sping Boot, fishing, kayaking and food. Though who doesn't love food. 
 - 🌱 I’m currently learning ... Javascript/HTML/CSS, I am also continuing to work on my python coding, and I recently completed Genral assemblies 12 Java Developers program. 
-- I am familair with or have worked with git hub, data structures, algorithms, core java, OOP, design patterns, spring boot, Rest, JDBC, maven, microservices, spring security, and spring data JPA
-thymeleaf, unit testing, mongoDB, postgresql, JPA, hibernate, docker, and AWS. 
+- I am familair with or have worked with git hub, data structures, algorithms, core java, OOP, design patterns, spring boot, Rest, JDBC, maven, microservices, spring security,spring data JPA, thymeleaf, unit testing, mongoDB, postgresql, JPA, hibernate, docker, and AWS. 
 - 💞️ I’m looking to collaborate on ... rest api's or expanding working on an old school text RPG. 
 - 📫 How to reach me ... 
 
